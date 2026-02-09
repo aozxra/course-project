@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="binary.svg"
+   inkscape:export-filename="binary.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.45937222"
+     inkscape:cx="87.075356"
+     inkscape:cy="695.51441"
+     inkscape:window-width="1646"
+     inkscape:window-height="898"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient70"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775922,-17.149621)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <linearGradient
+       id="swatch35"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop35" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient11"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775892,-2.382376)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-7" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775992,12.850379)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-10"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-6" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775992,27.850373)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-9" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-3.3455014,3.3455014,0,-101.14778,448.71434)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-0-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-9-9" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient26"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-5.0743435,5.0743435,0,-196.60161,771.75334)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-0-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-9-9-0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient14"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775622,72.83969)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-77" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775592,102.84025)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-94" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775942,117.8505)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-90"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-8" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient21"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.78098953,0,0,0.78098953,2.9961772,197.33004)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-90-41"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-8-8" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient20"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.3710875,0,0,0.3710875,46.035864,153.27938)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-90-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-0-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-9-93" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient18"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.077563,42.850509)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-0-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-9-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient19"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775627,57.850509)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-9-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-77-4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient23"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775557,87.850513)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-3-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-94-9-5" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient31"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775266,147.84025)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-3-8-1-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-94-9-5-7" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient37"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.0775259,177.84025)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-3-8-1-1-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-94-9-5-7-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient38"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74211871,0,0,0.74211871,7.077561,162.85049)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient39"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90629599,0,0,0.90629599,-10.161049,184.6759)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-3-8-1-1-3-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-94-9-5-7-3-0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient40"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,3.3430507,-3.3430507,0,271.02578,-148.8834)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-3-3-8-1-1-3-3-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-7-3-94-9-5-7-3-0-4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch35"
+       id="linearGradient41"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,3.3430507,-3.3430507,0,271.02623,-118.88348)"
+       x1="104.99999"
+       y1="52.500477"
+       x2="104.99999"
+       y2="52.500477" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g41"
+       transform="translate(-4.9907872,17.650123)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="29.603125"
+         height="9.6031246"
+         x="70.198479"
+         y="10.198315"
+         ry="4.8015623" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-6"
+         width="29.603125"
+         height="9.6031246"
+         x="70.198479"
+         y="241.89832"
+         ry="4.8015623" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198441"
+         y="40.198437"
+         ry="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-3"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198479"
+         y="25.198437"
+         ry="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198479"
+         y="55.198322"
+         ry="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2-5"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198441"
+         y="70.198441"
+         ry="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2-97"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198441"
+         y="85.198441"
+         ry="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2-9"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198479"
+         y="145.19846"
+         ry="0" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2-9-5"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198441"
+         y="115.19844"
+         ry="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.627524,104.99968 14.372486,-4.79107 14.3725,4.79107 -14.3725,4.79107 z"
+         id="path3"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient70);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3)"
+         d="m 85.00004,19.801438 v 4.021054"
+         id="path35-9-9" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient11);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-1)"
+         d="m 85.00004,34.568683 v 4.021049"
+         id="path35-9-9-7" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient12);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-10)"
+         d="m 85.00004,49.801431 v 4.02106"
+         id="path35-9-9-5" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient13);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-0)"
+         d="m 85.00004,64.801431 v 4.02105"
+         id="path35-9-9-77" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient18);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-0-2)"
+         d="m 85.000004,79.801567 v 4.02105"
+         id="path35-9-9-77-47" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient19);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-0-0)"
+         d="m 85.000004,94.801567 v 4.02105"
+         id="path35-9-9-77-0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient25);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-0-8)"
+         d="M 65.429088,97.4368 H 83.55616"
+         id="path35-9-9-77-4" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient26);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-0-8-3)"
+         d="M 56.056572,238.94746 H 83.55109"
+         id="path35-9-9-77-4-0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient14);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-9)"
+         d="m 85.00001,109.79075 v 4.02105"
+         id="path35-9-9-73" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient23);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-9-7)"
+         d="m 85.000004,124.80157 v 4.02105"
+         id="path35-9-9-73-0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient15);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-3)"
+         d="m 85.00001,139.79132 v 4.02105"
+         id="path35-9-9-1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient16);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-90)"
+         d="m 85.00004,154.80158 v 4.02105"
+         id="path35-9-9-50" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient21);stroke-width:0.397001;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-90-41)"
+         d="m 85.000011,236.21651 v 4.23168"
+         id="path35-9-9-50-9" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient20);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-90-4)"
+         d="m 85.00004,171.75631 v 2.01068"
+         id="path35-9-9-50-3" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="82.096535"
+         y="110.92781"
+         id="text69"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.396875"
+           x="82.096535"
+           y="110.92781">да</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="99.3358"
+         y="104.33324"
+         id="text69-2-4"><tspan
+           sodipodi:role="line"
+           id="tspan70-2"
+           x="99.3358"
+           y="104.33324">нет</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.627524,135.00024 14.372486,-4.79107 14.3725,4.79107 -14.3725,4.79108 z"
+         id="path3-7"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="82.096535"
+         y="140.92838"
+         id="text69-3"><tspan
+           sodipodi:role="line"
+           id="tspan69-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.396875"
+           x="82.096535"
+           y="140.92838">да</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="99.3358"
+         y="134.3338"
+         id="text69-2-4-1"><tspan
+           sodipodi:role="line"
+           id="tspan70-2-2"
+           x="99.3358"
+           y="134.3338">нет</tspan></text>
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.397;stroke-dasharray:none"
+         id="path1"
+         cx="85.000038"
+         cy="165.00002"
+         r="4.8014998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="79.917664"
+         y="15.787937"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+           x="79.917664"
+           y="15.787937">начало</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="132.5238"
+         y="11.379078"
+         id="text1-72"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           x="132.5238"
+           y="11.379078">аргументы:</tspan><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           x="132.5238"
+           y="15.788803">ссылка на массив arr,</tspan><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           x="132.5238"
+           y="20.198528">искомый элемент a</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="71.85405"
+         y="29.033649"
+         id="text1-6"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="71.85405"
+           y="29.033649">сортируем элементы массива</tspan><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           x="71.85405"
+           y="31.679487">     arr вместе с индексами</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="79.563675"
+         y="61.2005"
+         id="text1-7"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           x="79.563675"
+           y="61.2005">idx = -1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="79.90126"
+         y="76.200623"
+         id="text1-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           x="79.90126"
+           y="76.200623">left = 0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="77.203751"
+         y="90.781418"
+         id="text1-7-6-6"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           x="77.203751"
+           y="90.781418">right = n -1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="76.391579"
+         y="105.78142"
+         id="text1-4"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           x="76.391579"
+           y="105.78142">left &lt;= right</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="72.606987"
+         y="120.5228"
+         id="text1-4-8"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           x="72.606987"
+           y="120.5228">middle = (left + right) / 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="71.048218"
+         y="43.230938"
+         id="text1-1"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="71.048218"
+           y="43.230938">   присваиваем n</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="71.048218"
+           y="47.640663">размер массива arr</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="74.249588"
+         y="135.80644"
+         id="text1-0"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           x="74.249588"
+           y="135.80644">arr[middle] = a</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="72.523827"
+         y="149.06856"
+         id="text1-8"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="72.523827"
+           y="149.06856">присваиваем idx индекс</tspan><tspan
+           sodipodi:role="line"
+           id="tspan28"
+           x="72.523827"
+           y="152.15536">   элемента arr[middle]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="80.679886"
+         y="247.29416"
+         id="text1-92"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="80.679886"
+           y="247.29416">конец</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="83.602707"
+         y="166.90723"
+         id="text1-5"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           x="83.602707"
+           y="166.90723">1</tspan></text>
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.397;stroke-dasharray:none"
+         id="path1-8"
+         cx="56.255001"
+         cy="223.34241"
+         r="4.8014998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="54.85767"
+         y="225.2496"
+         id="text1-5-9"><tspan
+           sodipodi:role="line"
+           id="tspan11-7"
+           x="54.85767"
+           y="225.2496">1</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none;stroke-opacity:1"
+         d="m 104.37251,135.00024 h -5"
+         id="path16" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 104.37251,134.8018 v 37.0711"
+         id="path18" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396877;stroke-dasharray:none;stroke-opacity:1"
+         d="M 109.37249,104.77687 V 236.61343"
+         id="path18-7" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 85.00004,171.95475 h 19.57091"
+         id="path19" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 104.37244,179.8018 v 22.33508"
+         id="path18-9-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 85.00004,236.41499 h 24.174"
+         id="path21" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:1.19062, 0.396875;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 99.80161,14.999877 h 30"
+         id="path21-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.37251,104.99968 9.80153,-0.0244"
+         id="path22" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396874;stroke-dasharray:none;stroke-opacity:1"
+         d="M 65.627518,97.436795 V 234.51375"
+         id="path24" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.255004,228.1439 v 10.80355"
+         id="path26" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none;stroke-opacity:1"
+         d="M 129.80161,4.9998775 V 24.999877"
+         id="path18-7-5-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 132.60317,4.8014375 h -3"
+         id="path25-2-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 132.60317,25.198317 h -3"
+         id="path25-2-4-4" />
+      <g
+         id="g1"
+         transform="translate(-19.99996,-47.497643)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+           x="152.52028"
+           y="292.8056"
+           id="text1-72-7"><tspan
+             sodipodi:role="line"
+             id="tspan22"
+             x="152.52028"
+             y="292.8056">возвращаемое значение:</tspan><tspan
+             sodipodi:role="line"
+             id="tspan23"
+             x="152.52028"
+             y="297.21533">idx</tspan></text>
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none;stroke-opacity:1"
+           d="m 149.80157,284.19752 v 20"
+           id="path18-7-5" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:1.19062, 0.396875;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 119.80157,294.19752 h 30"
+           id="path21-3-5" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 152.60313,283.99908 h -3"
+           id="path25-2" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+           d="m 152.60313,304.39596 h -3"
+           id="path25-2-4" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2-9-50-7"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198448"
+         y="190.19844"
+         ry="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient31);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-3-8-1)"
+         d="m 84.999976,184.79132 v 4.02105"
+         id="path35-9-9-1-4-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.627486,180.00024 14.37249,-4.79107 14.3725,4.79107 -14.3725,4.79108 z"
+         id="path3-7-1-5"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="82.096504"
+         y="185.92836"
+         id="text69-3-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan69-6-2-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.396875"
+           x="82.096504"
+           y="185.92836">да</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="99.335762"
+         y="179.33379"
+         id="text69-2-4-1-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan70-2-2-2-4"
+           x="99.335762"
+           y="179.33379">нет</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="74.249557"
+         y="180.80643"
+         id="text1-0-6-8"><tspan
+           sodipodi:role="line"
+           id="tspan32"
+           x="74.249557"
+           y="180.80643">arr[middle] &lt; a</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="73.71904"
+         y="196.20062"
+         id="text1-8-0-2"><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           x="73.71904"
+           y="196.20062">left = middle +1</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none;stroke-opacity:1"
+         d="M 104.37248,180.00024 H 99.372476"
+         id="path16-4-9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 104.37244,209.8018 v 22.33508"
+         id="path18-9-1-4" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2-6-8-9-2-9-50-7-8"
+         width="29.603125"
+         height="9.6031256"
+         x="70.198448"
+         y="220.19846"
+         ry="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient37);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-3-8-1-1)"
+         d="m 84.999976,214.79132 v 4.02105"
+         id="path35-9-9-1-4-3-5" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient38);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-3-8-1-1-3)"
+         d="m 85.000011,199.80156 v 4.02105"
+         id="path35-9-9-1-4-3-5-0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient40);stroke-width:0.396998;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-3-8-1-1-3-3)"
+         d="M 104.57088,202.13688 H 86.457099"
+         id="path35-9-9-1-4-3-5-0-5" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient41);stroke-width:0.396998;stroke-linecap:butt;stroke-dasharray:none;marker-end:url(#ConcaveTriangle-9-3-3-8-1-1-3-3-9)"
+         d="M 104.57133,232.1368 H 86.457544"
+         id="path35-9-9-1-4-3-5-0-5-2" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient39);stroke-width:0.397;stroke-linecap:butt;stroke-dasharray:none"
+         d="m 85.00001,229.80157 v 4.91062"
+         id="path35-9-9-1-4-3-5-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.627486,210.00024 14.37249,-4.79107 14.3725,4.79107 -14.3725,4.79108 z"
+         id="path3-7-1-5-9"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="82.096504"
+         y="215.92838"
+         id="text69-3-7-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan69-6-2-3-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.396875"
+           x="82.096504"
+           y="215.92838">да</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+         x="99.335762"
+         y="209.3338"
+         id="text69-2-4-1-7-9-3"><tspan
+           sodipodi:role="line"
+           id="tspan70-2-2-2-4-8"
+           x="99.335762"
+           y="209.3338">нет</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="74.249557"
+         y="210.80644"
+         id="text1-0-6-8-8"><tspan
+           sodipodi:role="line"
+           id="tspan37"
+           x="74.249557"
+           y="210.80644">arr[middle] &gt; a</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-dasharray:none"
+         x="72.745796"
+         y="225.84406"
+         id="text1-8-0-2-1"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           x="72.745796"
+           y="225.84406">right = middle - 1</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none;stroke-opacity:1"
+         d="M 104.37248,210.00024 H 99.372476"
+         id="path16-4-9-9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none"
+         d="m 65.429078,234.51375 h 19.57093"
+         id="path41" />
+    </g>
+  </g>
+</svg>
